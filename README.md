@@ -8,7 +8,7 @@ The projects included are the following:
 
 - An analysis of the Billboard Top 100 Hit database.
 
-3. **bigfoot_sightings_datavisualization**
+3. **bigfoot_sightings_dataviz**
 
 - An explainer on how to use simple functions from ggplot and leaflet to track Bigfoot sightings.
 
