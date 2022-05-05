@@ -4,11 +4,11 @@
 ## Description
 The projects included are the following:
 
-1. **billboard_top100_analysis**
+1. **[billboard_top100_analysis](https://jessalvg.github.io/2022-dataj/docs/billboard_top100_analysis.html)**
 
 - An analysis of the Billboard Top 100 Hit database.
 
-3. **bigfoot_sightings_dataviz**
+3. **[bigfoot_sightings_dataviz](https://jessalvg.github.io/2022-dataj/docs/bigfoot_sightings_dataviz.html)**
 
 - An explainer on how to use simple functions from ggplot and leaflet to track Bigfoot sightings.
 
