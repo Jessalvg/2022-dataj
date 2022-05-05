@@ -15,6 +15,7 @@ The projects included are the following:
 ## Built With
 
 - R
+- HTML
 
 ## Version History
 * 0.1
